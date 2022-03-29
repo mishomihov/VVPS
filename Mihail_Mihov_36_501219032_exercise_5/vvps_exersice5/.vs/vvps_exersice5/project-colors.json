@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "31f02884-f401-4fd2-be1d-5bf45c317d56": {
+      "ProjectGuid": "31f02884-f401-4fd2-be1d-5bf45c317d56",
+      "DisplayName": "vvps_exersice5",
+      "ColorIndex": 0
+    },
+    "180e6dba-dab5-4002-9922-4d0fe6b31500": {
+      "ProjectGuid": "180e6dba-dab5-4002-9922-4d0fe6b31500",
+      "DisplayName": "vvps_exersice5Tests",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

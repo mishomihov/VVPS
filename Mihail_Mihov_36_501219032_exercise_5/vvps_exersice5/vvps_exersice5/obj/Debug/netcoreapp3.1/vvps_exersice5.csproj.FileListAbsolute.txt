@@ -1,0 +1,27 @@
+C:\Users\slavi\source\repos\vvps_exersice5\vvps_exersice5\bin\Debug\netcoreapp3.1\vvps_exersice5.exe
+C:\Users\slavi\source\repos\vvps_exersice5\vvps_exersice5\bin\Debug\netcoreapp3.1\vvps_exersice5.deps.json
+C:\Users\slavi\source\repos\vvps_exersice5\vvps_exersice5\bin\Debug\netcoreapp3.1\vvps_exersice5.runtimeconfig.json
+C:\Users\slavi\source\repos\vvps_exersice5\vvps_exersice5\bin\Debug\netcoreapp3.1\vvps_exersice5.runtimeconfig.dev.json
+C:\Users\slavi\source\repos\vvps_exersice5\vvps_exersice5\bin\Debug\netcoreapp3.1\vvps_exersice5.dll
+C:\Users\slavi\source\repos\vvps_exersice5\vvps_exersice5\bin\Debug\netcoreapp3.1\vvps_exersice5.pdb
+C:\Users\slavi\source\repos\vvps_exersice5\vvps_exersice5\obj\Debug\netcoreapp3.1\vvps_exersice5.csprojAssemblyReference.cache
+C:\Users\slavi\source\repos\vvps_exersice5\vvps_exersice5\obj\Debug\netcoreapp3.1\vvps_exersice5.AssemblyInfoInputs.cache
+C:\Users\slavi\source\repos\vvps_exersice5\vvps_exersice5\obj\Debug\netcoreapp3.1\vvps_exersice5.AssemblyInfo.cs
+C:\Users\slavi\source\repos\vvps_exersice5\vvps_exersice5\obj\Debug\netcoreapp3.1\vvps_exersice5.csproj.CoreCompileInputs.cache
+C:\Users\slavi\source\repos\vvps_exersice5\vvps_exersice5\obj\Debug\netcoreapp3.1\vvps_exersice5.dll
+C:\Users\slavi\source\repos\vvps_exersice5\vvps_exersice5\obj\Debug\netcoreapp3.1\vvps_exersice5.pdb
+C:\Users\slavi\source\repos\vvps_exersice5\vvps_exersice5\obj\Debug\netcoreapp3.1\vvps_exersice5.genruntimeconfig.cache
+D:\TU\6 semestyr\vvps\5to upr\visual stiduo C# code\vvps_exersice5\vvps_exersice5\bin\Debug\netcoreapp3.1\vvps_exersice5.exe
+D:\TU\6 semestyr\vvps\5to upr\visual stiduo C# code\vvps_exersice5\vvps_exersice5\bin\Debug\netcoreapp3.1\vvps_exersice5.deps.json
+D:\TU\6 semestyr\vvps\5to upr\visual stiduo C# code\vvps_exersice5\vvps_exersice5\bin\Debug\netcoreapp3.1\vvps_exersice5.runtimeconfig.json
+D:\TU\6 semestyr\vvps\5to upr\visual stiduo C# code\vvps_exersice5\vvps_exersice5\bin\Debug\netcoreapp3.1\vvps_exersice5.runtimeconfig.dev.json
+D:\TU\6 semestyr\vvps\5to upr\visual stiduo C# code\vvps_exersice5\vvps_exersice5\bin\Debug\netcoreapp3.1\vvps_exersice5.dll
+D:\TU\6 semestyr\vvps\5to upr\visual stiduo C# code\vvps_exersice5\vvps_exersice5\bin\Debug\netcoreapp3.1\vvps_exersice5.pdb
+D:\TU\6 semestyr\vvps\5to upr\visual stiduo C# code\vvps_exersice5\vvps_exersice5\obj\Debug\netcoreapp3.1\vvps_exersice5.GeneratedMSBuildEditorConfig.editorconfig
+D:\TU\6 semestyr\vvps\5to upr\visual stiduo C# code\vvps_exersice5\vvps_exersice5\obj\Debug\netcoreapp3.1\vvps_exersice5.AssemblyInfoInputs.cache
+D:\TU\6 semestyr\vvps\5to upr\visual stiduo C# code\vvps_exersice5\vvps_exersice5\obj\Debug\netcoreapp3.1\vvps_exersice5.AssemblyInfo.cs
+D:\TU\6 semestyr\vvps\5to upr\visual stiduo C# code\vvps_exersice5\vvps_exersice5\obj\Debug\netcoreapp3.1\vvps_exersice5.csproj.CoreCompileInputs.cache
+D:\TU\6 semestyr\vvps\5to upr\visual stiduo C# code\vvps_exersice5\vvps_exersice5\obj\Debug\netcoreapp3.1\vvps_exersice5.dll
+D:\TU\6 semestyr\vvps\5to upr\visual stiduo C# code\vvps_exersice5\vvps_exersice5\obj\Debug\netcoreapp3.1\vvps_exersice5.pdb
+D:\TU\6 semestyr\vvps\5to upr\visual stiduo C# code\vvps_exersice5\vvps_exersice5\obj\Debug\netcoreapp3.1\vvps_exersice5.genruntimeconfig.cache
+D:\TU\6 semestyr\vvps\5to upr\visual stiduo C# code\vvps_exersice5\vvps_exersice5\obj\Debug\netcoreapp3.1\vvps_exersice5.csproj.AssemblyReference.cache

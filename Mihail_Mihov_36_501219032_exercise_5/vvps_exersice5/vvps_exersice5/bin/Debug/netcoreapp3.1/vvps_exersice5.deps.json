@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "vvps_exersice5/1.0.0": {
+        "runtime": {
+          "vvps_exersice5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "vvps_exersice5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

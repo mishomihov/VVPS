@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "JZBjlP6mQG1ihOI0xl2fWh+G6KLlkfUOmhHMD4xTC5RdoZwbMoQG39neK5Di/1X93q1P7CD8IJ2KTK+qmdpDkA==",
+  "success": true,
+  "projectFilePath": "D:\\TU\\6 semestyr\\vvps\\5to upr\\visual stiduo C# code\\vvps_exersice5\\vvps_exersice5\\vvps_exersice5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mishoNastolen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\mishoNastolen\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\mishoNastolen\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\mishoNastolen\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
